@@ -1,4 +1,4 @@
-# Premier League Statistics 00-21
+# Premier League Statistics 00-20
 ### Study to analyze the performance of big six clubs, during the 00-20 seasons of the Premier League.
 
 ## Big six goals
