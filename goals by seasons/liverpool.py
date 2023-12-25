@@ -4,8 +4,8 @@ from main import df_filtered
 
 df_liverpool_per_season = df_filtered('Liverpool')
 
-plt.bar(df_liverpool_per_season['Season'], df_liverpool_per_season['TGS'], label='Total goals scored', color='#01977F')
-plt.bar(df_liverpool_per_season['Season'], df_liverpool_per_season['TGC'], label='Total goals conceded', color='#D10112')
+plt.bar(df_liverpool_per_season['Season'], df_liverpool_per_season['TGS'], label='Total goals scored', color='#00967F')
+plt.bar(df_liverpool_per_season['Season'], df_liverpool_per_season['TGC'], label='Total goals conceded', color='#610C0D')
 plt.title('Liverpool goals per season')
 plt.xlabel('Seasons')
 plt.ylabel('Goals')
