@@ -55,22 +55,22 @@
 ![image](https://github.com/alexsandro49/premier-league-statistics-00-20/blob/main/match%20results/plots/big_six_results_1.png)
 
 ### Arsenal Football Club:
-![image](https://github.com/alexsandro49/premier-league-statistics-00-20/blob/main/match%20results/plots/arsenal_results.png)
+![image](https://github.com/alexsandro49/premier-league-statistics-00-20/blob/main/match%20results/plots/arsenal_match_results.png)
 
 ### Chelsea Football Club:
-![image](https://github.com/alexsandro49/premier-league-statistics-00-20/blob/main/match%20results/plots/chelsea_results.png)
+![image](https://github.com/alexsandro49/premier-league-statistics-00-20/blob/main/match%20results/plots/chelsea_match_results.png)
 
 ### Liverpool Football Club:
-![image](https://github.com/alexsandro49/premier-league-statistics-00-20/blob/main/match%20results/plots/liverpool_results.png)
+![image](https://github.com/alexsandro49/premier-league-statistics-00-20/blob/main/match%20results/plots/liverpool_match_results.png)
 
 ### Manchester City Football Club:
-![image](https://github.com/alexsandro49/premier-league-statistics-00-20/blob/main/match%20results/plots/man_city_results.png)
+![image](https://github.com/alexsandro49/premier-league-statistics-00-20/blob/main/match%20results/plots/man_city_match_results.png)
 
 ### Manchester United Football Club:
-![image](https://github.com/alexsandro49/premier-league-statistics-00-20/blob/main/match%20results/plots/man_united_results.png)
+![image](https://github.com/alexsandro49/premier-league-statistics-00-20/blob/main/match%20results/plots/man_united_match_results.png)
 
 ### Tottenham Hotspur Football Club:
-![image](https://github.com/alexsandro49/premier-league-statistics-00-20/blob/main/match%20results/plots/tottenham_results.png)
+![image](https://github.com/alexsandro49/premier-league-statistics-00-20/blob/main/match%20results/plots/tottenham_match_results.png)
 
 ### Ranking by victories:
 ![image](https://github.com/alexsandro49/premier-league-statistics-00-20/blob/main/match%20results/plots/big_six_results_2.png)
