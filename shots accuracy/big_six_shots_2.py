@@ -10,6 +10,7 @@ df_big_six_per_team = pd.DataFrame({
     'TGS': [df_filtered(i)['TGS'].sum() for i in teams]
 })
 df_big_six_per_team.sort_values('TS', inplace=True)
+df_big_six_per_team.reset_index(drop=True, inplace=True)
 
 total_shots = plt.barh(df_big_six_per_team['TEAM'], df_big_six_per_team['TS'], label='Total shots', color='#002A74ff')
 total_shots_on_target = plt.barh(df_big_six_per_team['TEAM'], df_big_six_per_team['TST'], label='Total shots on target', color='#00967F')

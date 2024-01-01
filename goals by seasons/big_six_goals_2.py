@@ -11,6 +11,7 @@ df_big_six_per_team = pd.DataFrame({
 })
 
 df_big_six_per_team.sort_values('TGS', inplace=True)
+df_big_six_per_team.reset_index(drop=True, inplace=True)
 
 total_goals_scored = plt.barh(df_big_six_per_team['TEAM'], df_big_six_per_team['TGS'], label='Total goals scored', color='#002A74ff')
 total_goals_conceded = plt.barh(df_big_six_per_team['TEAM'], df_big_six_per_team['TGC'], label='Total goals conceded', color='#DB0000ff')
